@@ -1,5 +1,5 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Test
-description: hoi!!!
+title: Extrastellar Entity Labs
+description: Peter Turnbull and Mace Morningstar make controllable things that light up, move, make sound, and more, for theater and for fun.
