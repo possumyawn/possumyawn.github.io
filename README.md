@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-![Mace and Peter work on goat head](/docs/assets/mace-peter-goat-repair.jpg)
+  ![Mace and Peter work on goat head](/docs/assets/mace-peter-goat-repair.jpg)
 </body>
 </html>
